@@ -1,0 +1,8 @@
+1.students identity
+2. login
+3. time taken
+4.no.of books taken
+5.books issued
+6.books are to be submited
+7.logout
+8. total number of books are in the library.
